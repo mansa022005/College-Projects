@@ -4,7 +4,7 @@ An interactive and visually engaging Solar System Simulation built using Python�
 
 ---
 
-🚀 Features
+# 🚀 Features
 
 🌞 Sun at the center of the system
 
@@ -22,7 +22,7 @@ An interactive and visually engaging Solar System Simulation built using Python�
 
 ---
 
-🧠 Concepts Used
+# 🧠 Concepts Used
 
 Circular Motion using Trigonometry
 
@@ -36,7 +36,7 @@ Basic Graphics using Turtle
 
 ---
 
-👨‍💻 Team Members
+# 👨‍💻 Team Members
 
 Manvendra Singh Chouhan
 
@@ -47,7 +47,7 @@ Mahesh Choudhary
 
 ---
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 Python 3.x
 
 Turtle Graphics
@@ -58,7 +58,7 @@ Random Library
 
 ---
 
-🎮 Controls
+# 🎮 Controls
 
 Key	Action
 
@@ -66,7 +66,7 @@ Spacebar	Pause / Resume
 
 ---
 
-📊 How It Works
+# 📊 How It Works
 
 Each planet moves using:
 
@@ -79,7 +79,7 @@ The animation runs inside a continuous loop
 
 ---
 
-⚠️ Limitations
+# ⚠️ Limitations
 
 Not to real-world scale
 
@@ -89,7 +89,7 @@ Only 2D visualization
 
 ---
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 Add realistic scaling
 
