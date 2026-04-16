@@ -1,8 +1,24 @@
-# College-Project
-🐍 Python Project Dashboard
+🌌 Solar System Simulation using Python Turtle
 
-This repository contains our Python Project Dashboard, created as a part of our academic project work. The goal of this project is to build a simple, interactive, and efficient dashboard that allows users to visualize, analyze, and interpret data with ease. It demonstrates the use of Python for data processing, visualization, and UI development.
+An interactive and visually engaging Solar System Simulation built using Python’s Turtle graphics. This project demonstrates planetary motion, circular orbits, and basic animation concepts in a simple and educational way.
 
+🚀 Features
+🌞 Sun at the center of the system
+🪐 8 Planets revolving with different speeds
+🌍 Earth with orbiting Moon
+💫 Randomly generated star background
+🪐 Saturn with visible ring
+🏷️ Planet name labels
+⏯️ Pause/Resume animation using Spacebar
+
+---
+
+🧠 Concepts Used
+Circular Motion using Trigonometry
+Animation using loops
+Coordinate System (x, y positions)
+Event Handling (keyboard input)
+Basic Graphics using Turtle
 
 ---
 
@@ -15,43 +31,43 @@ Lakshya Gangwani
 Mahesh Choudhary
 
 
-
----
-
-📌 Project Overview
-
-The Python Project Dashboard provides an easy-to-use interface for exploring datasets. Users can load data, generate insights, and view meaningful visualizations using built-in features.
-
-Key Features:
-
-📊 Interactive charts and graphs
-
-📁 Data import and preprocessing
-
-🔍 KPI Summary section
-
-🧭 Simple and intuitive navigation
-
-🧱 Modular code structure for easy understanding
-
-📈 Automated visual reports
-
-
-This project highlights how Python can be used for real-world data analysis and visual communication.
-
-
 ---
 
 🛠️ Technologies Used
+Python 3.x
+Turtle Graphics
+Math Library
+Random Library
 
-Python
+---
 
-Pandas – data cleaning and handling
+🎮 Controls
+Key	Action
+Spacebar	Pause / Resume
 
-NumPy – numerical computations
+---
 
-Matplotlib / Seaborn – data visualization
+📊 How It Works
 
-Power BI – dashboard UI
+  Each planet moves using:
 
+    x = r * cos(angle)
+    y = r * sin(angle)
+  Different speed multipliers simulate realistic motion
+  The animation runs inside a continuous loop
 
+---
+
+⚠️ Limitations
+  Not to real-world scale
+  No gravitational physics
+  Only 2D visualization
+
+---
+
+🔮 Future Improvements
+  Add realistic scaling
+  Implement elliptical orbits
+  Add GUI controls (speed, zoom)
+  Convert to 3D simulation
+  Add textures and sound effects
