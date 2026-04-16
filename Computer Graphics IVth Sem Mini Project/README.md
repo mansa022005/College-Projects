@@ -1,4 +1,4 @@
-#🌌 Solar System Simulation using Python Turtle
+# 🌌 Solar System Simulation using Python Turtle
 
 An interactive and visually engaging Solar System Simulation built using Python’s Turtle graphics. This project demonstrates planetary motion, circular orbits, and basic animation concepts in a simple and educational way.
 
