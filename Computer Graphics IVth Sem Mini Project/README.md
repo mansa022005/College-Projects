@@ -38,11 +38,11 @@ Basic Graphics using Turtle
 
 # 👨‍💻 Team Members
 
-Manvendra Singh Chouhan
+Manvendra Singh Chouhan - 243501117
 
-Lakshya Gangwani
+Lakshya Gangwani - 2435011104
 
-Mahesh Choudhary
+Mahesh Choudhary - 243501113
 
 
 ---
