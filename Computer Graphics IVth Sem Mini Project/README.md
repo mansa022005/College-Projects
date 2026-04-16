@@ -2,6 +2,8 @@
 
 An interactive and visually engaging Solar System Simulation built using Python’s Turtle graphics. This project demonstrates planetary motion, circular orbits, and basic animation concepts in a simple and educational way.
 
+---
+
 🚀 Features
 
 🌞 Sun at the center of the system
