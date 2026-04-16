@@ -47,14 +47,19 @@ Mahesh Choudhary
 
 🛠️ Technologies Used
 Python 3.x
+
 Turtle Graphics
+
 Math Library
+
 Random Library
 
 ---
 
 🎮 Controls
+
 Key	Action
+
 Spacebar	Pause / Resume
 
 ---
@@ -65,21 +70,31 @@ Each planet moves using:
 
     x = r * cos(angle)
     y = r * sin(angle)
+
 Different speed multipliers simulate realistic motion
+
 The animation runs inside a continuous loop
 
 ---
 
 ⚠️ Limitations
+
 Not to real-world scale
+
 No gravitational physics
+
 Only 2D visualization
 
 ---
 
 🔮 Future Improvements
+
 Add realistic scaling
+
 Implement elliptical orbits
+
 Add GUI controls (speed, zoom)
+
 Convert to 3D simulation
+
 Add textures and sound effects
