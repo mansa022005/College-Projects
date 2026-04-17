@@ -2,6 +2,13 @@
 
 ---
 
+👨‍💻 Team Members
+Manvendra Singh Chouhan - 243501117
+
+Lakshay Gangwani - 2435011104
+
+---
+
 # 🧠 Overview
 
 This project implements the First Come First Serve (FCFS) CPU Scheduling Algorithm using a Bash Shell Script.
@@ -38,13 +45,13 @@ bc calculator (for decimal calculations)
 
 ---
 
-⚠️ Limitations
+# ⚠️ Limitations
 Does not consider arrival time (assumes all processes arrive at same time)
 Not efficient for long processes (Convoy Effect)
 
 ---
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 Add arrival time support
 Implement other scheduling algorithms:
 SJF (Shortest Job First)
