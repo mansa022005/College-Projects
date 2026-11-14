@@ -1,4 +1,4 @@
-##Small Business Inventory and Sales ERP
+## Small Business Inventory and Sales ERP
 
 A lightweight PHP and MySQL web application for managing a small business's products, suppliers, customers, purchases, sales, and inventory reports. The dashboard summarizes current stock, low-stock items, sales for today, and recent sales.
 
