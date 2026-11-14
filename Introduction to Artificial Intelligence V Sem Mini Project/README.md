@@ -56,7 +56,7 @@ If no algorithm is selected, the dashboard asks you to select at least one. If n
 ```text
 Introduction to Artificial Intelligence V Sem Mini Project/
 ├── Algorithm Comparison Dashboard.py  # Streamlit interface and grid visualizations
-├── Project.py                         # Required algorithm module; absent at this revision
+├── Algorithms.py                         # Required algorithm module; absent at this revision
 ├── AI Mini Project Report.pdf         # Project report
 └── README.md
 ```
