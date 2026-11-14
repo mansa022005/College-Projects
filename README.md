@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Projects-05-1F6FEB?style=for-the-badge&logo=github" alt="Five projects">
-  <img src="https://img.shields.io/badge/Semesters-III--V-8250DF?style=for-the-badge" alt="Semesters III to V">
+  <img src="https://img.shields.io/badge/Semesters-III--V-8250DF?style=for-the-badge" alt="Semesters III to VI">
   <img src="https://img.shields.io/badge/License-MIT-2DA44E?style=for-the-badge" alt="MIT License">
 </p>
 
