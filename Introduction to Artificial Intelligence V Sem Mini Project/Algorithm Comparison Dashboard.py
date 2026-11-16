@@ -83,4 +83,4 @@ else:
     for col, r in zip(cols_ui, results):
         col.pyplot(draw_grid(grid, r["Path"], src, dest, r["Algorithm"]))
 
-#To Run C:\Python315\python.exe -m streamlit run Project2.py
+#To Run C:\Python315\python.exe -m streamlit run Algorithm_Comparison_Dashbaord.py
